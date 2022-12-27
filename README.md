@@ -12,9 +12,4 @@ I'm a Frontend Developer
 
 ⚡ Fun fact: https://www.linkedin.com/in/ifoghale-uzezi-343646137
 
-Connect with me:
-nonsobarn nonsobarn nonsobarn 20272463 nonsobarn
-
-Languages and Tools:
-bootstrap css3 firebase git html5 nextjs photoshop react redux tailwind
 
