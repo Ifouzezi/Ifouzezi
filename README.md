@@ -1,4 +1,4 @@
-Hi 👋, I'm Ifoghale Uzezi 
+Hi 👋, I'm Ifoghale Uzezi. 
 I'm a Frontend Developer
 
 
