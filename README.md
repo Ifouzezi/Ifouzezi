@@ -4,7 +4,7 @@ I'm a Frontend Developer
 
 🔭 I work with HTML, CSS, C, Shell. 
 
-🌱 I’m currently learning Shell, HTML, C, CSS. 
+🌱 I’m currently learning as a Software Engineer @Google ALX. 
 
 👯 I’m looking to collaborate on HTML projects. 
 
